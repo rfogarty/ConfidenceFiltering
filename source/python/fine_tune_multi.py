@@ -23,7 +23,6 @@ from configurable.dataPresentation import *
 from configurable.dataParameters import *
 from model import *
 from snapshot import *
-from plot import *
 from archive import *
 from gpuassign import *
 from arguments import *
